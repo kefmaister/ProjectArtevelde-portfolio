@@ -1,0 +1,13 @@
+.starWrapper {
+  position: relative;
+  overflow: hidden;
+}
+
+.star {
+  position: absolute;
+  width: 2rem;
+  height: 2rem;
+  background-image: url("../assets/svg/Star.svg");
+  background-size: contain;
+  opacity: 0.2;
+}
